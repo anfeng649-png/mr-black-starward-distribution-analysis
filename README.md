@@ -1,4 +1,4 @@
-# Iowa Liquor Sales: Ownership Structure & Distribution Continuity
+# Mr Black & Starward: Ownership Structure and Distribution Continuity in Iowa
 
 A self-directed analysis using the public Iowa Liquor Sales dataset in BigQuery, centered on two Australian spirits brands — Mr Black and Starward — that took different paths through Diageo's ownership and ended up with different distribution outcomes.
 
